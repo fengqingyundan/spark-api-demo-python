@@ -16,6 +16,7 @@ Spark API的每一个通信接口都需要采用API Key来加密，因此必须�
 2.2 配置
 
 2.2.1 demo相关的配置信息在 'apidemo/utils.py' 中，使用前请将其填写完整。
+
 2.2.2 视频回调信息配置在 'template/upload.html'的js里，请更改为您可以收到回调信息的地址
 
 2.3 启动
